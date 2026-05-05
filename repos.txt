@@ -1,3 +1,2 @@
 therealaleph/MasterHttpRelayVPN-RUST|windows-amd64
-ircfspace/teleMirror|tele-mirror-win-x64.zip
 masterking32/MasterDnsVPN|MasterDnsVPN_Client_Windows_AMD64.zip
