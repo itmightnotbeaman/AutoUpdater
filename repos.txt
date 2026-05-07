@@ -1,2 +1,3 @@
 therealaleph/MasterHttpRelayVPN-RUST|windows-amd64
 masterking32/MasterDnsVPN|MasterDnsVPN_Client_Windows_AMD64.zip
+sartoopjj/thefeed|thefeed-client|\.exe
