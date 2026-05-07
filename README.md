@@ -177,14 +177,6 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `thefeed-client-android-arm` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-android-arm) |
-| `thefeed-client-android-arm64` | 11.4 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-android-arm64) |
-| `thefeed-client-v0.16.2-darwin-amd64` | 11.6 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-darwin-amd64) |
-| `thefeed-client-v0.16.2-darwin-arm64` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-darwin-arm64) |
-| `thefeed-client-v0.16.2-freebsd-amd64` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-freebsd-amd64) |
-| `thefeed-client-v0.16.2-freebsd-arm64` | 10.3 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-freebsd-arm64) |
-| `thefeed-client-v0.16.2-linux-amd64` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-linux-amd64) |
-| `thefeed-client-v0.16.2-linux-arm64` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-linux-arm64) |
 | `thefeed-client-v0.16.2-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-windows-amd64.exe) |
 | `thefeed-server-windows-amd64.exe` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
 
@@ -194,7 +186,7 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.16</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.16)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.17</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.17)
 
 | File | Size | Download |
 |------|------|----------|
