@@ -1,4 +1,5 @@
 therealaleph/MasterHttpRelayVPN-RUST|windows-amd64
 masterking32/MasterDnsVPN|MasterDnsVPN_Client_Windows_AMD64.zip
 sartoopjj/thefeed|windows-amd64.exe
+2dust/v2rayN|v2rayN-windows-64.zip
 
