@@ -157,6 +157,19 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="ircfspace--telemirror"></div>
+
+### ircfspace--teleMirror
+
+🔗 [source](https://github.com/ircfspace/teleMirror) – [<code><small>v3.2.0</small></code>](https://github.com/ircfspace/teleMirror/releases/tag/v3.2.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `tele-mirror-win-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/ircfspace/teleMirror/tele-mirror-win-x64.zip.001) |
+| `tele-mirror-win-x64.zip (part 2 of 2)` | 51.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/ircfspace/teleMirror/tele-mirror-win-x64.zip.002) |
+
+---
+
 <div id="masterking32--masterdnsvpn"></div>
 
 ### masterking32--MasterDnsVPN
