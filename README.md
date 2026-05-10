@@ -199,7 +199,7 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.19</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.19)
 
 | File | Size | Download |
 |------|------|----------|
