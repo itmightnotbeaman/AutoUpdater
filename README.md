@@ -174,7 +174,7 @@ sha256sum FILE_NAME
 
 ### masterking32--MasterDnsVPN
 
-🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.04.123456-38b73de</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.04.123456-38b73de)
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.10.180256-27c7e11</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.10.180256-27c7e11)
 
 | File | Size | Download |
 |------|------|----------|
