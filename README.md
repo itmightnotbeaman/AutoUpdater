@@ -186,11 +186,11 @@ sha256sum FILE_NAME
 
 ### sartoopjj--thefeed
 
-🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.5</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.5)
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.19.1</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.19.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `thefeed-client-v0.17.5-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-windows-amd64.exe) |
+| `thefeed-client-v0.19.1-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-client-v0.19.1-windows-amd64.exe) |
 | `thefeed-server-windows-amd64.exe` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
 
 ---
@@ -199,9 +199,9 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.21</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.21)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.31</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.31)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/itmightnotbeaman/AutoUpdater/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
